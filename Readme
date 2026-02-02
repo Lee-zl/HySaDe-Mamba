@@ -1,1 +1,9 @@
-The paper is under review, and our code will be made public here after it is accepted. Please stay tuned, thank you!
+HySaDe-Mamba: A Mamba-based Network for Hyperspectral Salient Object Detection -- TCSVT 2025
+
+@article{zhang2025hysade,
+  title={HySaDe-Mamba: A Mamba-based Network for Hyperspectral Salient Object Detection},
+  author={Zhang, Lei and Zhang, Huijie and Luo, Xiaoyan and Bian, Liheng and Zhen, Xiantong},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2025},
+  publisher={IEEE}
+}
